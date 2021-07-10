@@ -1,0 +1,76 @@
+{
+    "grocery":[
+    {"SerialNo":"01",
+       "Name": "Carrot",
+        "Quantity":"01",
+        "Unit":"Kg",
+        "Notes":"Fresh",
+        "Department": "Vegetables"
+    },
+    {"SerialNo":"02",
+        "Name": "Egg",
+         "Quantity":"10",
+         "Unit":"Number",
+         "Notes":"Duck",
+         "Department": "Poultry"
+     },
+     {"SerialNo":"03",
+        "Name": "Oil",
+         "Quantity":"01",
+         "Unit":"Litre",
+         "Notes":"Sunflower",
+         "Department": "Grocery"
+     },
+     {"SerialNo":"04",
+        "Name": "Rice",
+         "Quantity":"05",
+         "Unit":"Kg",
+         "Notes":"Basmati",
+         "Department": "Grocery"
+     },
+     {"SerialNo":"05",
+        "Name": "Sugar",
+         "Quantity":"02",
+         "Unit":"Kg",
+         "Notes":"",
+         "Department": "Grocery"
+     },
+     {"SerialNo":"06",
+        "Name": "Onion",
+         "Quantity":"02",
+         "Unit":"Kg",
+         "Notes":"",
+         "Department": "Vegetables"
+     },
+     {"SerialNo":"07",
+        "Name": "Fish",
+         "Quantity":"01",
+         "Unit":"Kg",
+         "Notes":"Fresh",
+         "Department": "Poultry"
+     },
+     {"SerialNo":"08",
+        "Name": "Meat",
+         "Quantity":"01",
+         "Unit":"Kg",
+         "Notes":"Beef",
+         "Department": "Poultry"
+     },
+     {"SerialNo":"09",
+        "Name": "Orange",
+         "Quantity":"01",
+         "Unit":"Kg",
+         "Notes":"Fresh",
+         "Department": "Fruits"
+     },
+     {"SerialNo":"10",
+        "Name": "Apple",
+         "Quantity":"2",
+         "Unit":"Kg",
+         "Notes":"Green Apple",
+         "Department": "Fruits"
+     }
+    
+    ]
+    
+    }
